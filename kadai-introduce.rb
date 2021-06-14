@@ -1,4 +1,4 @@
-firstname = '山田'
+firstname = '田中'
 givenname = '太郎'
 age = 25
 
